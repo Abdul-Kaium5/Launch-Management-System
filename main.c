@@ -135,6 +135,7 @@ int adminLogin()
     if (file == NULL)
     {
         printf("\n\t%sError: Unable to open secret file.%s\n", LIGHT_RED, RESET);
+        Sleep(1500);
         return 0;
     }
 
