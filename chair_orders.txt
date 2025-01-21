@@ -1,0 +1,27 @@
+Order ID: 1000
+Name: Abdul Kaium
+Phone: 01700000000
+Seats Booked: A1 
+Order Time: 03:15 PM 21-01-2025
+Chair Price: 500.00
+---------------------------
+
+
+Order ID: 1000
+Name: Rakib
+Phone: 01711111111
+Seats Booked: B1 B2 
+Order Time: 03:23 PM 21-01-2025
+Chair Price: 1000.00
+---------------------------
+
+
+Order ID: 1001
+Name: Noman
+Phone: 019999999999
+Seats Booked: O4 
+Order Time: 03:24 PM 21-01-2025
+Chair Price: 500.00
+---------------------------
+
+

@@ -1,0 +1,3 @@
+AC Cabins: 0 0 0 0 0 0 0 1 1 1 
+Non-AC Cabins: 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+VIP Cabins: 0 0 0 0 0 

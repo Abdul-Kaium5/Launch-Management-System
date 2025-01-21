@@ -1,0 +1,6 @@
+1,Dhaka to Barisl,Saturday,9:00 PM,5:00 AM
+2,Barisal to Dhaka,Sunday,9:00 PM,5:00 AM
+3,Dhaka to Barisal,Monday,8:00 PM,4:00 AM
+4,Barisal to Dhaka,Tuesday,10:00 PM,7:00 AM
+5,Dhaka to Barisal,Wednesday,8:00 PM,4:30 AM
+6,Barisal to Dhaka,Friday,9:00 PM,5:30 AM
